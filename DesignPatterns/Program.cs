@@ -7,7 +7,6 @@ namespace DesignPatterns
     {
         static void Main(string[] args)
         {
-
             //FactoryMethod
             //new DesignPatterns.Creational.FactoryMethod.Client().Main();
 
@@ -15,7 +14,10 @@ namespace DesignPatterns
             //new DesignPatterns.Creational.Prototype.Client().Main();
 
             //Singleton
-            new DesignPatterns.Creational.Singleton.Client().Main();
+            //new DesignPatterns.Creational.Singleton.Client().Main();
+
+            //Abstract Factory
+            new DesignPatterns.Creational.AbstractFactory.Client().Main();
 
         }
     }
