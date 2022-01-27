@@ -12,8 +12,10 @@ namespace DesignPatterns
             //new DesignPatterns.Creational.FactoryMethod.Client().Main();
 
             //Prototype
-            new DesignPatterns.Creational.Prototype.Client().Main();
+            //new DesignPatterns.Creational.Prototype.Client().Main();
 
+            //Singleton
+            new DesignPatterns.Creational.Singleton.Client().Main();
 
         }
     }
