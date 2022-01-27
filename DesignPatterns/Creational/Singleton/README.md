@@ -1,6 +1,6 @@
 ﻿# Singleton
 
-Singleton is a cretonal design pattern that lets you ensure that a class has only on instance, while providing a global access point to this instance.
+Singleton is a cretional design pattern that lets you ensure that a class has only on instance, while providing a global access point to this instance.
 
 
 [Documentation](https://refactoring.guru/design-patterns)
