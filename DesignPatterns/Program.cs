@@ -26,7 +26,11 @@ namespace DesignPatterns
             //new DesignPatterns.Structural.Decorator.Client().Main();
 
             //Facade
-            new DesignPatterns.Structural.Facade.Client().Main();
+            //new DesignPatterns.Structural.Facade.Client().Main();
+
+            //Observer
+            new DesignPatterns.Behavioral.Observer.Client().Main();
+
 
         }
     }
