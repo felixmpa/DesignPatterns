@@ -20,7 +20,10 @@ namespace DesignPatterns
             //new DesignPatterns.Creational.AbstractFactory.Client().Main();
 
             //Builder
-            new DesignPatterns.Creational.Builder.Client().Main();
+            //new DesignPatterns.Creational.Builder.Client().Main();
+
+            //Decorator
+            new DesignPatterns.Structural.Decorator.Client().Main();
 
         }
     }
