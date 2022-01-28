@@ -23,7 +23,10 @@ namespace DesignPatterns
             //new DesignPatterns.Creational.Builder.Client().Main();
 
             //Decorator
-            new DesignPatterns.Structural.Decorator.Client().Main();
+            //new DesignPatterns.Structural.Decorator.Client().Main();
+
+            //Facade
+            new DesignPatterns.Structural.Facade.Client().Main();
 
         }
     }
